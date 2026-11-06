@@ -1,84 +1,47 @@
-# Hi, I'm Abdulsamad Bashir 👋
 
-### Information Technology Graduate | Frontend Developer | Aspiring AI & Software Engineer
+<h1 align="center">Hi 👋, I'm Abdulsamad Bashir</h1>
+<h3 align="center">Software Engineer | Web, Mobile & AI Developer</h3>
 
-I am an Information Technology graduate with a growing focus on **Artificial Intelligence, Software Engineering, Data Science, and intelligent digital systems**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Developer;Flutter+Developer;AI+%26+Machine+Learning+Enthusiast" />
+</p>
 
-My development journey began with frontend development and has expanded toward building data-driven and intelligent applications. I enjoy transforming practical problems into usable software solutions while continuously developing my skills in modern software engineering and AI.
+- 🌍 Based in Nigeria
+- 🎓 Information Technology Graduate, Bayero University Kano
+- 💻 Building Web and Mobile Applications
+- 🌱 Currently learning Python, PyTorch and Machine Learning
+- 🔬 Interested in Artificial Intelligence and Intelligent Systems
 
-## 🚀 Current Focus
+### 🛠️ Technologies & Tools
 
-- Artificial Intelligence & Machine Learning
-- Software Engineering
-- Data Science
-- Frontend Development
-- Intelligent Systems
-- Human-Centred Technology
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,java,dart,flutter,mysql,firebase,git,github,vscode" />
+</p>
 
-## 🛠️ Technologies
+### 🚀 Featured Projects
 
-**Languages**
-- Python
-- JavaScript
-- Java
-- HTML
-- CSS
+- Mobile-Based E-Wallet Application
+- Abdul Cars Website
+- Tajstore.brand E-commerce Website
 
-**Frontend**
-- React
-- JavaScript
-- Responsive Web Design
+### 📊 GitHub Statistics
 
-**Backend & Data**
-- Flask
-- REST APIs
-- MySQL
-- Firebase
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Blaxkmamba7&show_icons=true&theme=tokyonight" />
+</p>
 
-**AI & Data**
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Data Visualization
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaxkmamba7&layout=compact&theme=tokyonight" />
+</p>
 
-**Tools**
-- Git
-- GitHub
-- VS Code
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blaxkmamba7&theme=tokyonight" />
+</p>
 
-## ⭐ Featured Projects
+### 🤝 Connect With Me
 
-### 🤖 AI Student Performance Predictor
-Machine-learning application that analyses student-related data and predicts academic performance.
-
-### 💳 Intelligent E-Wallet Fraud Detection
-Machine-learning system for identifying potentially fraudulent financial transactions.
-
-### 📚 Smart Library Recommendation System
-Intelligent library platform combining software engineering, database management and book recommendation.
-
-### 🎯 AI Career Recommendation System
-Data-driven system that recommends potential technology career paths based on skills, interests and background.
-
-### 📖 AI Study Assistant
-Interactive AI-powered learning platform for generating explanations, quizzes, summaries and personalized study plans.
-
-## 🎓 Education
-
-**BSc Information Technology**  
-Bayero University Kano, Nigeria
-
-## 🌱 Currently Learning
-
-Artificial Intelligence • Machine Learning • Data Science • Software Engineering • React • Python
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Blaxkmamba7
-- LinkedIn: [Add your LinkedIn profile]
-- Email: [Add your professional email]
-
----
-
-> Building practical software today, while developing the skills to build intelligent systems tomorrow.
+<p>
+<a href="https://github.com/Blaxkmamba7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
