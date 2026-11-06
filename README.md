@@ -14,9 +14,33 @@
 
 ### 🛠️ Technologies & Tools
 
+
+### 🛠️ Technologies & Tools
+
+**🎨 Frontend Development**
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,java,dart,flutter,mysql,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </p>
+
+**⚙️ Backend Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,firebase" />
+</p>
+
+**📱 Mobile Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=dart,flutter" />
+</p>
+
+**🔧 Tools & Platforms**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,azure" />
+</p>
+
 
 ### 🚀 Featured Projects
 
