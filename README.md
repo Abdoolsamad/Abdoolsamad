@@ -23,10 +23,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </p>
 
-**⚙️ Backend Development**
+**⚙️ Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=python,java." />
 </p>
 
 **📱 Mobile Development**
