@@ -12,8 +12,6 @@
 - 🌱 Currently learning Python, PyTorch and Machine Learning
 - 🔬 Interested in Artificial Intelligence and Intelligent Systems
 
-### 🛠️ Technologies & Tools
-
 
 ### 🛠️ Technologies & Tools
 
@@ -26,7 +24,7 @@
 **⚙️ Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java." />
+<img src="https://skillicons.dev/icons?i=python,java,." />
 </p>
 
 **📱 Mobile Development**
