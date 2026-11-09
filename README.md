@@ -68,4 +68,9 @@ I enjoy exploring new technologies and have a growing interest in Artificial Int
 <a href="https://github.com/Abdoolsamad">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+  🌐 **Portfolio:** [Your Portfolio](YOUR_PORTFOLIO_URL)
+- 📧 **Email:** [Your Email](mailto:YOUR_EMAIL)
+- 💼 **LinkedIn:** [Abdulsamad Bashir](YOUR_LINKEDIN_URL)
+- 🐦 **Twitter/X:** [@YourUsername](YOUR_TWITTER_URL)
+- 📱 **Phone:** +234XXXXXXXXXX
 </p>
