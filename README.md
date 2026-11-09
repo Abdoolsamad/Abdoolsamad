@@ -33,6 +33,12 @@
 <img src="https://skillicons.dev/icons?i=dart,flutter" />
 </p>
 
+**🗄️ Database**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  
+</p>
+
 **🔧 Tools & Platforms**
 
 <p>
