@@ -72,19 +72,19 @@ I enjoy exploring new technologies and have a growing interest in Artificial Int
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://abdoolsamad.github.io/portfolio/index.html">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:Abdulsamadbashir7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/abdulsamadbashir">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_TWITTER_URL">
+  <a href="x.com/avdol_bash">
     <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://github.com/Blaxkmamba7">
+  <a href="https://github.com/Abdoolsamad">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
