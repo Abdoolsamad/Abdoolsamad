@@ -1,5 +1,5 @@
-<h1 allign="center">About Me</h1>
-<h2 align="center">Hi 👋, I'm Abdulsamad Bashir</h2>
+
+<h1 align="center">Hi 👋, I'm Abdulsamad Bashir</h2>
 <h3 align="center">Software Engineer | Web, Mobile & AI Developer</h3>
 
 <p align="center">
@@ -52,7 +52,7 @@
 ### 🤝 Connect With Me
 
 <p>
-<a href="https://github.com/Blaxkmamba7">
+<a href="https://github.com/Abdoolsamad">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
