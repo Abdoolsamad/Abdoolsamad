@@ -19,12 +19,6 @@ I enjoy exploring new technologies and have a growing interest in Artificial Int
 - 🚀 Passionate about building innovative solutions
 - 🌍 Based in Nigeria
 
-- 🎓 BSc in Information Technology — Bayero University Kano
-- 💻 Interested in Software Engineering and Application Development
-- 🌱 Currently strengthening my Python, React and PyTorch skills
-- 🔬 Research Interests: Artificial Intelligence, Machine Learning and Intelligent Systems
-- 🚀 Passionate about building useful technology solutions
-- 🌍 Based in Nigeria
 
 ### 🛠️ Technologies & Tools
 
