@@ -6,15 +6,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Developer;Flutter+Developer;AI+%26+Machine+Learning+Enthusiast" />
 </p>
 
-👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me </h2>
 
-I'm **Abdulsamad Bashir**, an Information Technology graduate from **Bayero University Kano, Nigeria**, with a passion for software engineering, application development, and emerging technologies.
 
-I enjoy designing and building practical digital solutions, particularly web and mobile applications that solve real-world problems. My development experience includes working with modern frontend technologies, Java, Python, and Flutter.
+I'm **Abdulsamad Bashir**, a passionate Software Engineer focused on building practical digital solutions through web and mobile application development.
 
-Beyond software development, I'm increasingly interested in **Artificial Intelligence, Machine Learning, and Intelligent Systems**, with a focus on exploring how AI can be applied to practical challenges.
+I enjoy exploring new technologies and have a growing interest in Artificial Intelligence and Machine Learning.
 
-I'm continuously learning, improving my technical skills, and looking for opportunities to contribute to meaningful software projects and research.
+- 💻 Software & Web Application Development
+- 🌱 Currently exploring Python, React and PyTorch
+- 🔬 Research Interests: AI, Machine Learning & Intelligent Systems
+- 🚀 Passionate about building innovative solutions
+- 🌍 Based in Nigeria
 
 - 🎓 BSc in Information Technology — Bayero University Kano
 - 💻 Interested in Software Engineering and Application Development
