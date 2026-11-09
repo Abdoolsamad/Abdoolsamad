@@ -68,9 +68,25 @@ I enjoy exploring new technologies and have a growing interest in Artificial Int
 <a href="https://github.com/Abdoolsamad">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-  🌐 **Portfolio:** [Your Portfolio](YOUR_PORTFOLIO_URL)
-- 📧 **Email:** [Your Email](mailto:YOUR_EMAIL)
-- 💼 **LinkedIn:** [Abdulsamad Bashir](YOUR_LINKEDIN_URL)
-- 🐦 **Twitter/X:** [@YourUsername](YOUR_TWITTER_URL)
-- 📱 **Phone:** +234XXXXXXXXXX
+  
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_TWITTER_URL">
+    <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/Blaxkmamba7">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 </p>
