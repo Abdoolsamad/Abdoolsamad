@@ -45,20 +45,9 @@
 - Mobile-Based E-Wallet Application
 - Abdul Cars Website
 - Tajstore.brand E-commerce Website
+<hr></hr>
 
-### 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Blaxkmamba7&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaxkmamba7&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blaxkmamba7&theme=tokyonight" />
-</p>
 
 ### 🤝 Connect With Me
 
