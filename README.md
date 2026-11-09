@@ -23,7 +23,7 @@ I enjoy exploring new technologies and have a growing interest in Artificial Int
 ### 🛠️ Technologies & Tools
 
 **🎨 Frontend Development**
-<hr><hr/>
+<hr>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
