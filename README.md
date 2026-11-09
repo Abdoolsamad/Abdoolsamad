@@ -1,6 +1,5 @@
-<h1>About Me</h1>
-<hr></>
-<h1 align="center">Hi 👋, I'm Abdulsamad Bashir</h1>
+<h1 allign="center">About Me</h1>
+<h2 align="center">Hi 👋, I'm Abdulsamad Bashir</h2>
 <h3 align="center">Software Engineer | Web, Mobile & AI Developer</h3>
 
 <p align="center">
